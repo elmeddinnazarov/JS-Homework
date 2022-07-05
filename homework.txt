@@ -1,0 +1,18 @@
+1. Funksiya run olundan 5 saniyə sonra konsolda `bes saniye bitdi` yazan bir funksiya hazırlayın
+2. Konsolda 100-dən aşağı geri sayım edən və 0-a çatanda geri sayım bitdi yazan bir funksiya hazırlayın
+3. 65.4345 ədədini yuvarlaqlaşdırın
+4. 0 və 10 arasında random ədəd verən bir funksiya hazırlayın
+5. İndiki tarixə görə İl, ay, gün göstərən funksiya hazırlayın
+6. İndiki tarixə görə saat, dəqiqə, saniyə göstərən funksiya hazırlayın
+7. Gələn ilin bu günündə həftənin neçənci günü olacağını göstərən bir funksya hazırlayın
+8. girilen sayıların üstlerini hesablama
+9. prompt ile alınan ededlerin aralığında 3e ve 5 e tam bölünen ededleri alert ile yazdır
+10. arry içinde en böyük ve en kiçik sayını tapmaq
+
+
+
+
+
+1. settimeout vs setinterval esas ferqi nedir
+2. math ceil ve floor ne işe yarayır. round var onsuz
+match abs
